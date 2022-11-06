@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupesh Narkar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh500&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh500" /> </p>
+<p align="left"> <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6/?username=rupesh500&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh500" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupesh500" alt="rupesh500" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **laravel codeignigter**
 
-- 👨‍💻 All of my projects are available at [rupeshnarkar.000webhostapp.com](rupeshnarkar.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [https://rupeshnarkar.000webhostapp.com](https://rupeshnarkar.000webhostapp.com)
 
 - 📫 How to reach me **rupeshnarkar500@gmail.com**
 
